@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T12:42:04.440Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XGMTMJ2Va_-gAk_EEfaE" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T12:55:30.507Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cHaIEqK_SMmFhwjRwGJT" version="24.3.0" type="github">
   <diagram name="Page-1" id="m-NrNaXzWtHRc3pcfnOm">
     <mxGraphModel dx="1912" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="p1mtIn3bXi-Ina5bghBo-15" value="Petit Dejeuner" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="180" width="160" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="p1mtIn3bXi-Ina5bghBo-16" value="+ entree : String&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ plat : String&lt;/span&gt;&lt;div&gt;+ dessert : String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ calories : numérique&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-15">
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-16" value="&lt;div&gt;&lt;div&gt;+ entree : String&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ plat : String&lt;/span&gt;&lt;div&gt;+ dessert : String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ calories : Int&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-15">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="p1mtIn3bXi-Ina5bghBo-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-15">
@@ -16,7 +16,7 @@
         <mxCell id="p1mtIn3bXi-Ina5bghBo-18" value="Dejeuner" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="310" width="160" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="p1mtIn3bXi-Ina5bghBo-19" value="+ entree : String&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ plat : String&lt;/span&gt;&lt;div&gt;+ dessert : String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ calories : numérique&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-18">
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-19" value="&lt;div&gt;&lt;div&gt;+ entree : String&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ plat : String&lt;/span&gt;&lt;div&gt;+ dessert : String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ calories : Int&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-18">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="p1mtIn3bXi-Ina5bghBo-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-18">
@@ -25,7 +25,7 @@
         <mxCell id="p1mtIn3bXi-Ina5bghBo-22" value="Diner" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="440" width="160" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="p1mtIn3bXi-Ina5bghBo-23" value="+ entree : String&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ plat : String&lt;/span&gt;&lt;div&gt;+ dessert : String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ calories : numérique&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-22">
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-23" value="+ entree : String&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ plat : String&lt;/span&gt;&lt;div&gt;+ dessert : String&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ calories : Int&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-22">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="p1mtIn3bXi-Ina5bghBo-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-22">
@@ -34,7 +34,7 @@
         <mxCell id="p1mtIn3bXi-Ina5bghBo-31" value="LoginUser" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="110" width="160" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="p1mtIn3bXi-Ina5bghBo-32" value="+ unique_Id : Numérique&lt;div&gt;+ email : String&lt;/div&gt;&lt;div&gt;+ password : String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-31">
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-32" value="+ unique_Id : Int&lt;div&gt;+ email : String&lt;/div&gt;&lt;div&gt;+ password : String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-31">
           <mxGeometry y="26" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="p1mtIn3bXi-Ina5bghBo-33" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-31">
@@ -55,25 +55,25 @@
         <mxCell id="p1mtIn3bXi-Ina5bghBo-57" value="&lt;i&gt;Alimentation&lt;/i&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="310" width="220" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="p1mtIn3bXi-Ina5bghBo-58" value="+ water : Numérique" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-57">
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-58" value="+ water : Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-57">
           <mxGeometry y="26" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="p1mtIn3bXi-Ina5bghBo-59" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-57">
           <mxGeometry y="52" width="220" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="p1mtIn3bXi-Ina5bghBo-60" value="+ calculerTotalCalPerDay : Numérique&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-57">
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-60" value="+ calculerTotalCalPerDay : Int&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-57">
           <mxGeometry y="60" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="p1mtIn3bXi-Ina5bghBo-61" value="&lt;div&gt;Exercice&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="481" width="180" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="p1mtIn3bXi-Ina5bghBo-62" value="+ nombreDePas : Numérique" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-61">
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-62" value="+ nombreDePas : Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-61">
           <mxGeometry y="26" width="180" height="44" as="geometry" />
         </mxCell>
         <mxCell id="p1mtIn3bXi-Ina5bghBo-63" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-61">
           <mxGeometry y="70" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="p1mtIn3bXi-Ina5bghBo-64" value="+ calBurned() : Numérique" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-61">
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-64" value="+ caloBurned() : Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="p1mtIn3bXi-Ina5bghBo-61">
           <mxGeometry y="78" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="p1mtIn3bXi-Ina5bghBo-65" value="UserData" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -128,6 +128,12 @@
               <mxPoint x="-50" y="373" />
               <mxPoint x="-50" y="349" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p1mtIn3bXi-Ina5bghBo-82" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p1mtIn3bXi-Ina5bghBo-65" target="p1mtIn3bXi-Ina5bghBo-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
