@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T17:04:33.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CrCSnWXPx0rpm3JhMSb1" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T17:11:34.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lIaawNcKN2oSEsKu-i_z" version="24.3.1" type="github">
   <diagram name="Page-1" id="m-NrNaXzWtHRc3pcfnOm">
     <mxGraphModel dx="3251" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
         <mxCell id="VEmsgolYJwhpEAyTpgtb-15" value="+ repas : Repas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VEmsgolYJwhpEAyTpgtb-8" vertex="1">
           <mxGeometry y="52" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="VEmsgolYJwhpEAyTpgtb-16" value="+ quantité : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VEmsgolYJwhpEAyTpgtb-8" vertex="1">
+        <mxCell id="VEmsgolYJwhpEAyTpgtb-16" value="+ quantité : Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="VEmsgolYJwhpEAyTpgtb-8" vertex="1">
           <mxGeometry y="78" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="VEmsgolYJwhpEAyTpgtb-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="VEmsgolYJwhpEAyTpgtb-8" vertex="1">
